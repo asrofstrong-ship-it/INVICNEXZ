@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asrofstrong-ship-it.github.io/INVICNEXZ/sitemap.xml
