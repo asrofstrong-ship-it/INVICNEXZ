@@ -135,3 +135,21 @@ padding:20px;
     background:#ff8c1a;
     transform:scale(1.05);
     }
+.logo-placeholder{
+    width:140px;
+    height:140px;
+    margin:30px auto;
+    border-radius:50%;
+    background:rgba(255,255,255,.08);
+    border:3px solid rgba(255,165,0,.8);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    font-size:60px;
+
+    box-shadow:
+        0 0 20px rgba(255,140,0,.6),
+        0 0 40px rgba(255,90,0,.3);
+    }
