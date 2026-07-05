@@ -111,3 +111,19 @@ padding:20px;
 }
 
 }
+.join-btn{
+    display:inline-block;
+    margin-top:20px;
+    background:#ff6600;
+    color:white;
+    text-decoration:none;
+    padding:14px 30px;
+    border-radius:30px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.join-btn:hover{
+    background:#ff8c1a;
+    transform:scale(1.05);
+    }
